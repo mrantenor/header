@@ -10,7 +10,7 @@ sudo snap install tiv --edge
 ```
 sudo snap install lolcat
 ```  
-3) Fazer o download do arquivo txt na pasta ```.config```.
+3) Fazer o download do arquivo [M87.txt](/M87.txt) na pasta ```.config```.
 4) Colocar o seguinte texto no arquivo .bashrc ou .zshrc
 ```
 ######## INICIALIZAÇÃO #########
